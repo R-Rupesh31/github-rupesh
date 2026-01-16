@@ -1,1 +1,9 @@
 changed
+git clone https://github.com/R-Rupesh31/github-rupesh.git
+cd github-rupesh
+git status
+ git add test2.txt
+ git status
+ git commit -m "test2.txt file added"
+  git push origin main
+  git pull
