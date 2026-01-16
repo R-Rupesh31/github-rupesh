@@ -6,4 +6,6 @@ git status
  git status
  git commit -m "test2.txt file added"
   git push origin main
+
+git pull comand is used to update the changes happened in the remote file into the local file
   git pull
